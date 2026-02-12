@@ -133,7 +133,7 @@ app.http('ProcessQuote', {
         return {
             status: 200,
             jsonBody: {
-                message: "Advanced AI Insurance Engine Running 🚀 - LIVE CI/CD DEMO",
+                message: "Advanced AI Insurance Engine Running 🚀 - DEMO WORKING",
                 riskScore,
                 riskLevel, 
                 estimatedPremium: premium,
